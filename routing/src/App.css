@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+
+
+img {
+  height: 100%;
+  width: 50%;
+  border-radius: 7px;
+  padding: 15px;
+}
+
+.card {
+  display: flex;
+  text-align: left;
+  width:50%;
+}
+
+.card p {
+  text-align: center;
+}
+
+/* .container {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+} */

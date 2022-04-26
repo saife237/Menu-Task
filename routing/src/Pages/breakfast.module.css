@@ -1,0 +1,23 @@
+.double{
+    display: flex;
+}
+/* .dev{
+    justify-content: center;
+    display: flex;
+} */
+
+img{
+    /* padding-right: 60%; */
+    height: 25%;
+    width: 30%;
+}
+
+.b1{
+  position: relative;
+top: -73%;
+right: 35px;
+}
+
+hr{
+    width: 50%;
+}
